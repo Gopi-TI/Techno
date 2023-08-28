@@ -18,7 +18,8 @@
 .background-container {
     background-image: url("https://img.freepik.com/premium-photo/cup-coffee-beans-wooden-table_68495-156.jpg?w=1380");
     background-size: cover;
-    height: auto;
+    width: 100%;
+    min-height: 100vh;
 }
 .total-container {
     display: flex;
