@@ -18,13 +18,13 @@
 .background-container {
     background-image: url("https://img.freepik.com/premium-photo/cup-coffee-beans-wooden-table_68495-156.jpg?w=1380");
     background-size: cover;
-    height: 110vh;
+    height: auto;
 }
 .total-container {
     display: flex;
     justify-content: space-around;
     margin-top: 35px;
-    flex-grow: 5;
+    flex-wrap: wrap;
 }
 .item-container {
     background-color: #edd8ca;
@@ -169,11 +169,12 @@
     font-weight: 500;
 }
 
-@media (max-width: 1200px) { 
+/* @media (max-width: 1200px) { 
     .background-container {
         background-size: cover;
         height: auto;
-        width: 110vw;
+        width: auto;
+        flex-wrap: wrap;
     }
     .total-container {
         display: flex;
@@ -204,4 +205,4 @@
     .payment-container {
         width: 400px;
     }
-}
+} */
