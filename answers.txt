@@ -1,0 +1,9 @@
+1.What is your favorite programming language? Why?
+    My favorite programming language is Python. Becuase it is easy to learn and the syntax is simple just like an english language. And we do not need mention what type of variable it is.
+    We can directly give variable name without data type. And there are many built-in modules
+
+2.Do you know CSS? How would you rate yourself in CSS?
+    I know CSS. From 1 to 5 i would rate myself with 2.0 .
+
+3.Do you know React? How would you rate yourself in React?
+    I know React. from 1 to 5 i would rate myself with 1.5 .
